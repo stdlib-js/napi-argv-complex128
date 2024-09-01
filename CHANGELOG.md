@@ -62,12 +62,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Philipp Burckhardt
 -   Utkarsh
--   Utkarsh Gupta
 -   Utkarsh Gupta
 
 </section>
