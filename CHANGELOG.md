@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2025-03-17)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#6054](https://github.com/stdlib-js/stdlib/issues/6054)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`6281551`](https://github.com/stdlib-js/stdlib/commit/62815510cb88cce68c65fd9e210d1024e335b780) - **chore:** resolve javascript lint error [(#6064)](https://github.com/stdlib-js/stdlib/pull/6064) _(by Gautam sharma)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +37,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Gautam sharma
 -   Philipp Burckhardt
 
 </section>
